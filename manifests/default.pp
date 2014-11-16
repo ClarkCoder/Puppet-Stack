@@ -9,4 +9,5 @@ include apache
 include php
 include php::pear
 include mysql
+include php::laravel
 
